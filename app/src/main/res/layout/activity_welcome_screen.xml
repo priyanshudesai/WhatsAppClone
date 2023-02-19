@@ -19,7 +19,7 @@
             android:textSize="25sp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="30dp"
-            android:text="Welcome to WhatsApp Clone"/>
+            android:text="Welcome to PDWhatsApp"/>
 
         <ImageView
             android:layout_width="250dp"
@@ -65,7 +65,7 @@
             android:textSize="16sp"
             android:textStyle="bold"
             android:textColor="#50CF55"
-            android:text="F A C E B O O K"/>
+            android:text="P R I Y A N S H U"/>
     </LinearLayout>
 
 </RelativeLayout>

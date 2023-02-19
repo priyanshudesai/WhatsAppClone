@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "70690020244",
-    "firebase_url": "https://whatsappclone-e89dc.firebaseio.com",
-    "project_id": "whatsappclone-e89dc",
-    "storage_bucket": "whatsappclone-e89dc.appspot.com"
+    "project_number": "227816180755",
+    "firebase_url": "https://chatapp-ed8d7.firebaseio.com",
+    "project_id": "chatapp-ed8d7",
+    "storage_bucket": "chatapp-ed8d7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70690020244:android:e7f1242937a796790fcd81",
+        "mobilesdk_app_id": "1:227816180755:android:066e710b623476ad3603e6",
         "android_client_info": {
-          "package_name": "com.littleit.whatsappclone"
+          "package_name": "com.pd.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "70690020244-1oi8ghq4q8t8qb2uic7pbmso0q1a9fau.apps.googleusercontent.com",
+          "client_id": "227816180755-5cq0ol6di53g053vibmi6v604o570cjn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.littleit.whatsappclone",
-            "certificate_hash": "18bf4c423ab8656054eb6680cb86d59f1656183d"
+            "package_name": "com.pd.chatapp",
+            "certificate_hash": "73161bd8a98f6d3875375cae5c87f79ba235c08f"
           }
         },
         {
-          "client_id": "70690020244-t37levrmdjlkj0gkvtqkc7dfo3omcsca.apps.googleusercontent.com",
+          "client_id": "227816180755-vr05spe7cstp2n162ctt6objdo05pgjk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASepLap2Dltl938_gwKMxBTnQrxy1HAF8"
+          "current_key": "AIzaSyCMjsWb3yQfnnOHpCdk3R-TQpvVB2OIF_k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "70690020244-t37levrmdjlkj0gkvtqkc7dfo3omcsca.apps.googleusercontent.com",
+              "client_id": "227816180755-vr05spe7cstp2n162ctt6objdo05pgjk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

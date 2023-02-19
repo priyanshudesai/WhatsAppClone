@@ -20,7 +20,7 @@
         <com.google.android.material.appbar.CollapsingToolbarLayout
             android:id="@+id/collaps"
             android:layout_width="match_parent"
-            android:layout_height="250dp"
+            android:layout_height="375dp"
             android:fitsSystemWindows="true"
             app:contentScrim="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
@@ -33,7 +33,7 @@
                 android:layout_height="match_parent"
                 android:src="@drawable/icon_male_ph"
                 app:layout_collapseMode="parallax"
-                android:scaleType="centerCrop"/>
+                android:scaleType="fitXY"/>
             <View
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
@@ -176,7 +176,7 @@
                             android:layout_width="0dp"
                             android:layout_weight="1"
                             android:layout_height="wrap_content"
-                            android:text="+855 XXX XXX"
+                            android:text="+91 XXXX XXX XXX"
                             android:textColor="@android:color/black"/>
                         <ImageView
                             android:layout_width="25sp"
@@ -191,6 +191,7 @@
                             android:tint="@color/colorPrimary"
                             android:src="@drawable/ic_call_black_24dp"/>
                         <ImageView
+                            android:id="@+id/vid_call_btn"
                             android:layout_width="25sp"
                             android:layout_height="25dp"
                             android:layout_marginStart="20dp"

@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textColor="@android:color/black"
-            android:text="WhatsApp will send an SMS message to verify your phone number.What's my number?"/>
+            android:text="PDWhatsApp will send an SMS message to verify your phone number.What's my number?"/>
 
 
         <LinearLayout
@@ -66,7 +66,7 @@
                 android:inputType="number"
                 android:maxLength="5"
                 android:maxLines="1"
-                android:hint="855"/>
+                android:hint="1"/>
             <EditText
                 android:id="@+id/ed_phone"
                 android:layout_width="200dp"
@@ -89,6 +89,7 @@
             android:layout_height="wrap_content"
             android:maxLength="6"
             android:inputType="number"
+            android:visibility="gone"
             android:hint="Enter Code "/>
     </LinearLayout>
 
